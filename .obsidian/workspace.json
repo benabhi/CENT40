@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "cd312c0b1feb08ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "fed9a1fab0661e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc705e504abbf0e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e31b5f0d6b8276",
+    "type": "split",
+    "children": [
+      {
+        "id": "231d55ae1256cab8",
+        "type": "tabs",
+        "dimension": 32.36434108527132,
+        "children": [
+          {
+            "id": "cb38032e9cc1a521",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee41287f9f2c35db",
+        "type": "tabs",
+        "dimension": 67.63565891472868,
+        "children": [
+          {
+            "id": "d6e17ec3d3417f95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80dba2aa5d8abf74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b58187e1bd01f1c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "faf79304905c7ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "40bf5366d0ee1ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a648a10102b3df18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cffa8df2d65499df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "121c282a1bf15176",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9443ae10f9369552",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "fc705e504abbf0e7",
+  "lastOpenFiles": [
+    "Materias/Matemática I - Algebra/Unidades/Unidad 1 - Ecuaciones de Primer Grado.md",
+    "Materias/Matemática I - Algebra/Trabajos Prácticos/Trabajo Practico 1 - Ecuaciones.md",
+    "Daily Notes/2024-03-05.md",
+    "Materias/Matemática I - Algebra/Imagenes/img12.png",
+    "Materias/Matemática I - Algebra/Imagenes/img11.png",
+    "Materias/Tecnología Ciencia y Sociedad/Trabajos Prácticos/Trabajo Práctico 1.md",
+    "Materias/Sistemas Operativos/Unidades",
+    "Materias/Tecnología Ciencia y Sociedad/Trabajos Prácticos",
+    "Materias/Matemática I - Algebra/Imagenes/img10.png",
+    "Materias/Matemática I - Algebra/Imagenes/img9.png",
+    "Materias/Matemática I - Algebra/Imagenes/img8.png",
+    "Materias/Matemática I - Algebra/Imagenes/img7.png",
+    "Materias/Matemática I - Algebra/Imagenes/img6.png",
+    "Materias/Matemática I - Algebra/Material/Respuestas TP1.pdf",
+    "Materias/Matemática I - Algebra/Material/Ecuación Primer Grado.pdf",
+    "Materias/Matemática I - Algebra/Matemática I - Algebra.md",
+    "Misc/TODO.md",
+    "Materias/Administración/Administración.md",
+    "Materias/Sistemas Operativos/Sistemas Operativos.md",
+    "Materias/Tecnología Ciencia y Sociedad/Tecnología Ciencia y Sociedad.md",
+    "Materias/Programación Lógica/Programación Lógica.md",
+    "Daily Notes/2024-03-27.md",
+    "Materias/Sistemas Operativos/Unidades/Unidad 1 - Sistemas Operativos.md",
+    "Materias/Sistemas Operativos/Material/Sistemas Operativos 2021.pdf",
+    "Materias/Sistemas Operativos/Material",
+    "Materias/Tecnología Ciencia y Sociedad/Unidades/Unidad 1 - Introducción a la Ciencia y la Tecnología.md",
+    "Materias/Tecnología Ciencia y Sociedad/Material/Conocimiento, Ciencia, Tecnología y Técnica.pdf",
+    "Materias/Tecnología Ciencia y Sociedad/Material/Apuntes de Cátedra de Ciencia y Tecnología.pdf",
+    "Materias/Tecnología Ciencia y Sociedad/Material/Trabajo Práctico 1 Tecnología, Ciencia y Sociedad.pdf",
+    "Materias/Tecnología Ciencia y Sociedad/Apuntes/Apuntes Unidad 1.md",
+    "Materias/Tecnología Ciencia y Sociedad/Material/Presentación de la materia.pdf",
+    "Materias/Administración/Unidades/Unidad 1.md",
+    "Materias/Administración/Apuntes/Apuntes Escuelas de la Administración.md",
+    "Daily Notes/2024-03-19.md",
+    "Daily Notes/2024-03-18.md",
+    "Daily Notes/2024-03-20.md",
+    "Daily Notes/2024-03-21.md",
+    "Profesores/Marcos Tabares.md",
+    "Daily Notes/2024-03-26.md",
+    "Materias/Matemática I - Algebra/Apuntes/Apuntes de Línea Recta..md",
+    "Materias/Matemática I - Algebra/Imagenes/img5.png",
+    "full.png",
+    "Materias/Matemática I - Algebra/Imagenes/img4.png",
+    "Daily Notes/2024-03-25.md",
+    "Daily Notes/2024-03-22.md",
+    "Materias/Matemática I - Algebra/Tips/Remover fracciones en ecuaciones.md"
+  ]
+}

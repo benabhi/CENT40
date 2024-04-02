@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1712022526304,
+      "path": "Misc/TODO.md",
+      "title": "TODO"
+    },
+    {
+      "type": "file",
+      "ctime": 1712022184144,
+      "path": "Misc/HORARIO SISTEMAS 1ª CUAT 2024.pdf",
+      "title": "Horarios"
+    },
+    {
+      "type": "group",
+      "ctime": 1712022618952,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1712022639456,
+          "path": "Materias/Administración/Administración.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1712022909568,
+          "path": "Materias/Matemática I - Algebra/Matemática I - Algebra.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1712029019503,
+          "path": "Materias/Programación Lógica/Programación Lógica.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1712029038247,
+          "path": "Materias/Sistemas Operativos/Sistemas Operativos.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1712029049807,
+          "path": "Materias/Tecnología Ciencia y Sociedad/Tecnología Ciencia y Sociedad.md"
+        }
+      ],
+      "title": "Materias"
+    }
+  ]
+}

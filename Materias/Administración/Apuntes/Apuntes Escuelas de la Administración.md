@@ -1,0 +1,104 @@
+#materia/administracion #apuntes-practicas-tareas 
+
+[[2024-03-25]]
+- Con el proyector (Conceptos explicados por el profesor)
+    - Administración
+        - Es la disciplina del conocimiento científico que tiene como objetivo de estudio a las organizaciones.
+    - Grupo
+        - Es un conjunto de personas que se reúnen para un fin determinado.
+    - Organización
+        - Es un conjunto de personas que tienen objetivos en común.
+        - Orden formal e informal.
+            - Tienen normas y principios que regulan el comportamiento de quienes la conforman.
+        - Puede sobrevivir a sus fundadores.
+        - Genera rasgos que la diferencian de otras organizaciones. Es identidad.
+        - Genera una cultura propia.
+        - Esta atravesada por instituciones.
+    - Institución
+        - Normas principio y valores que regulan el comportamiento de la vida en sociedad. Las instituciones atraviesan a los individuos a los grupos y a las organizaciones.
+        - Ej. Salud publica, seguridad, educación, justicia.
+    - Un ejemplo de organización e institución es por ejemplo el CENT40 que es una organización atravesada por la educación publica (institución).
+    - En la pagina 88 están las escuelas de la administración.
+    - Escuela clásica.
+        - Frederick Taylor
+            - Formación Ingeniero industrial.
+            - Estudiaba el proceso productivo.
+                - Como hacer lo mejor posible un producto (mas eficiente).
+                - Sometía a las personas también a estos procesos.
+                - Seleccionaba al trabajador por su intelecto o por sus atributos físicos.
+                - Supervisaban a los trabajadores para que cumplan los tiempos de trabajo.
+                - EntendíaSe dividía tajantemente la parte de supervisión o gerencia con los obreros.
+                    - Los obreros no pensaban, eso era para lo mas intelectuales.
+        - Henri Fayol
+            - Se dedico a estudiar el proceso directivo.
+            - Desarrollo muchas conceptualizaciones que permitían llevar a delante a un grupo humano a cumplir determinados objetivos de la organizacional.
+            - El entendía que había que tener una división de trabajo, donde los procesos se especializan cada vez mas.
+            - Entendía que tenia que estar dividida la responsabilidad del trabajo.
+            - Unidad de mando y la de dirección.
+                - La unidad de mando hace referencia a que las personas deben tener solamente un coordinador o un jefe para que funcione de manera mas eficiente.
+            - Los intereses particulares deberían estar subordinados al interés particular.
+            - La remuneración era distinta de la de Taylor que consideraba que se debía cobrar a destajo o por tanto (mas se produce mas se gana). El hablaba de una remuneración razonable.
+            - Consideraba centralización.
+            - Estabilidad del personal.
+            - Consideraba la incoativa de la gente que conformaba la organización.
+    - La escuela neoclásica
+        - Es continuadora pero posterior en el tiempo a la escuela clásica.
+        - Se apoya en los descubrimientos de las escuelas clásicas.
+        - Persona importante en esta escuela.
+            - Henri Ford
+                - El creador de Ford Company (Autos).
+                - Fue un inventor e innovador.
+                - Aporto con la producción en cadena o en serie (proceso productivo).
+                    - La idea de producción en serie estuvo vigente en los mataderos.
+                    - Triplico la cantidad de autos producidos en pocos años.
+                - Mejoro la situación salarial a los trabajadores.
+                    - Doblo el sueldo en comparación a otras organizaciones.
+                    - Los trabajadores podían comprar un auto.
+                - Pensaba que mientras mas consumo en la sociedad mejor.
+    - Escuela de comportamiento organizacional
+        - Surge en los años 50
+        - Estudios de parte de otras disciplinas del conocimiento orientados a la organización.
+        - Elton Mayo
+            - Estaba tratando de estudiar por que la productividad de los trabajadores disminuía.
+            - La cuestión ecológica propiciaba la mayor o menos eficiencia de los trabajadores.
+            - Se hacían experimentos para ver si la incorporación o sustracción de algún cambio del ecosistema afectaba la productividad.
+                - Se llego a la conclusión de que había un cambio, mas productividad, si las personas eran incluidas o tenidas en cuenta.
+        - Se comenzó a tener en cuenta el factor humano, su la persona es tenida en cuenta se compromete mas con la tarea.
+        - Otros autores, comenzaron a entender que la organizaciones no son  maquinas, las personas pueden aportar.
+        - LEER SOBRE ELTON MAYO (según el profesor)
+    - Escuela estructuralista
+        - Surge a principios del siglo XX
+        - Tiene impacto en la gestión de las administraciones publicas.
+        - Max Webber
+            - No tenia tan en cuenta al sujeto.
+            - Autor estructuralista (?)
+            - Estudiaba el poder o capacidad que puede tener alguien de hacer que otros hagan lo que uno quiere.
+                - Leer mas sobre esto en la fotocopia. (Poder de autoridad, y otros)
+            - Identificaba 3 tipos de lógicas
+                - Racional  (la mas importante)
+                    - Mediante las normas se puede regular el comportamiento humano, dominación legitima.
+                - Tradicional
+                    - Tiene que ver con determinadas creencias que hacen legitima a una estructura,
+                        - Ej, Cuando uno adhiere a una religión.
+                        - Al entrar uno legitima es
+                - Lógica carismática
+                    - La capacidad de hacer que otras hagan algo depende del carisma del líder.
+                        - Ejemplo Evita y Perón.
+                    - Tiene que ver con los atributos de una persona que lo dotan de un nivel de autoridad.
+            - Como estructuralista entendía que la lógica de la organización debía estar bajo una normativa que iba a regular a los miembros.
+                - Desarrollo el modelo burocrático.
+    - Escuela de investigación de operaciones
+        - No hay mucho sobre esta escuela
+        - Apoyar el entendimiento de la organización en términos matemáticos, estadísticos, etc. Apoyándose en ciencias duras.
+    - Escuela de teoría de la organización
+        - En los 60
+        - Helberg Simon (ver como se escribe) #todo
+            - Economista
+            - Planteo un quiebre de paradigma en entender que el hombre organizacional no es como el hombre  economista.
+            - El hombre no lo puede explicar todo.
+            - La racionalidad es limitada.
+            - La preocupación esta en la organización toda y el vinculo con su contexto.
+- Teoría general de los sistemas
+    - Es la teoría de sistemas orientado a las organizaciones.
+    - Es tomada de la biología, biomas todo interrelacionado
+    - Se comenzó a estudiar a la organización como sistema que interactuá con el exterior, no son sistemas cerrados.
