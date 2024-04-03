@@ -97,7 +97,7 @@ $$
 3x+9 &= 2x-3 \\
 3x-2x &= -3-9 \\
 x &= -12 \quad\checkmark
-\end{align*}****
+\end{align*}
 $$
 #### j)
 
@@ -109,9 +109,10 @@ $$
 x &= 12 \quad\checkmark
 \end{align*}
 $$
-[[2024-03-20]]
+
 
 #### k)
+[[2024-03-20]]
 
 $$
 \begin{align*}
@@ -156,15 +157,17 @@ x &= 10 - 9 \\
 x &= 1 \quad\checkmark
 \end{align*}
 $$
-#### ñ) #todo
+#### ñ) 
 
 $$
 \begin{align*}
-\frac x 2 + 1 &= \frac x 4 + 4 \\
-4 \bigg( \frac x 2 \bigg) + 4 \cdot 1 &= 4 \bigg( \frac x 4 \bigg) + 4 \cdot 4 \\
-2x + 4 &= x + 16 \\
-2x - x &= 16 - 4 \\
-x &= 12  \qquad \text{VER era -x/4, da 4}
+\frac x 2 + 1 &= - \frac x 4 + 4 \\
+4 \bigg( \frac x 2 \bigg) + 4 \cdot 1 &= 4 \bigg( -\frac x 4 \bigg) + 4 \cdot 4 \\
+2x + 4 &= -x + 16 \\
+2x + x &= 16 - 4 \\
+3x &= 12 \\
+x &= 12 / 3 \\
+x &= 4 \quad\checkmark
 \end{align*}
 $$
 #### o)
@@ -543,7 +546,7 @@ $$
 **Ecuación Completa**
 
 $$
-y = \frac 2 3 x + \frac 4 3
+y = \frac 2 3 x + \frac 4 3 \quad\checkmark
 $$
 
 #### r2)
@@ -582,7 +585,7 @@ $$
 **Ecuación Completa**
 
 $$
-y = - \frac 4 3 x + \frac 7 3
+y = - \frac 4 3 x + \frac 7 3 \quad\checkmark
 $$
 
 #### r3)
@@ -621,10 +624,10 @@ $$
 **Ecuación Completa**
 
 $$
-y = 2x
+y = 2x \quad\checkmark
 $$
 
-#### r4)
+#### r4) #todo
 
 **Puntos**
 
@@ -697,8 +700,9 @@ $$
 **Ecuación Completa**
 
 $$
-y = 3
+y = 3 \quad\checkmark
 $$
+
 
 ### Ejercicios Complementarios
 
@@ -735,7 +739,7 @@ x &= 48/3 \\
 x &= 16 \quad\checkmark
 \end{align*}
 $$
-#### d) #todo 
+#### d)
 
 $$
 \begin{align*}
@@ -745,6 +749,11 @@ $$
 36 / 2 &= x \\ 
 18 &= x \quad \text{MAL}
 \end{align*}
+$$
+Este ejercicio lo pase a ecuación mal, la ecuación correcta era.
+
+$$
+47+x=3(11+x)
 $$
 
 #### e)
@@ -795,6 +804,12 @@ x + \frac 1 2 x + \frac 1 4 x + 1 &= x \\
 x &= - \frac 4 3 \quad\checkmark
 \end{align*}
 $$
+Me confundí en agregar la primera x, la ecuación correcta era.
+
+$$
+\frac 1 2 x + \frac 1 4 x + 1 = x
+$$
+
 
 
 ## Material

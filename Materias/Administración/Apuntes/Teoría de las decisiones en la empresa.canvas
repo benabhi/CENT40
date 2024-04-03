@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"9ead0a4b3eac27fa","x":-620,"y":-260,"width":1315,"height":460,"type":"group","label":"Teoría de las decisiones en la empresa"},
+		{"id":"ce17fac12349168e","x":-625,"y":-400,"width":250,"height":80,"type":"text","text":"#apuntes-practicas-tareas #materia/administracion "},
+		{"id":"5c7071b42cc490b8","x":-600,"y":-240,"width":250,"height":264,"type":"text","text":"* Investigar la situación.\n* Definir el problema.\n* Investigar los objetivos.\n* Diagnosticar los objetivos.\n* Diagnosticar las causas."},
+		{"id":"93a5aca9f4d9343b","type":"text","text":"* Desarrollo de alternativas.\n* Buscar alternativas creativas.","x":-255,"y":-240,"width":250,"height":264},
+		{"id":"dca570824c013ec3","type":"text","text":"* Evaluar las alternativas.\n* Seleccionar la mejor.","x":85,"y":-240,"width":250,"height":264},
+		{"id":"17f2f8b082acbb15","type":"text","text":"* Implementarla y hacer el seguimiento.\n* Planear la implementación.\n* Implementar el plan.\n* Hacer los ajustes necesarios y realizar el seguimiento.","x":425,"y":-240,"width":250,"height":264}
+	],
+	"edges":[
+		{"id":"64af3537cc7fa7ea","fromNode":"5c7071b42cc490b8","fromSide":"right","toNode":"93a5aca9f4d9343b","toSide":"left"},
+		{"id":"7643c914ee9eac4f","fromNode":"93a5aca9f4d9343b","fromSide":"right","toNode":"dca570824c013ec3","toSide":"left"},
+		{"id":"df04e3657810686b","fromNode":"dca570824c013ec3","fromSide":"right","toNode":"17f2f8b082acbb15","toSide":"left"},
+		{"id":"83ed45ca0b8fef96","fromNode":"17f2f8b082acbb15","fromSide":"bottom","toNode":"5c7071b42cc490b8","toSide":"bottom","label":"EL CONTROL"}
+	]
+}

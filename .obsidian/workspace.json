@@ -4,18 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fed9a1fab0661e04",
+        "id": "c30d3ce3cc8e9b4a",
         "type": "tabs",
         "children": [
           {
-            "id": "fc705e504abbf0e7",
+            "id": "b76a4724198c2741",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Materias/Administración/Trabajos Prácticos/Trabajo Práctico 1 - Las Escuelas de la Administración.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Administración/Trabajos Prácticos/Trabajo Práctico 1 - Las Escuelas de la Administración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Materias/Administración/Trabajos Prácticos/Trabajo Práctico 1 - Las Escuelas de la Administración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Materias/Administración/Trabajos Prácticos/Trabajo Práctico 1 - Las Escuelas de la Administración.md"
+              }
             }
           }
         ],
@@ -142,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,14 +165,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc705e504abbf0e7",
+  "active": "b76a4724198c2741",
   "lastOpenFiles": [
-    "Materias/Matemática I - Algebra/Unidades/Unidad 1 - Ecuaciones de Primer Grado.md",
+    "Materias/Administración/Unidades/Unidad 1.md",
+    "Materias/Administración/Administración.md",
+    "Materias/Administración/Trabajos Prácticos/Trabajo Práctico 1 - Las Escuelas de la Administración.md",
+    "Materias/Administración/Apuntes/Teoría de las decisiones en la empresa.canvas",
+    "Materias/Administración/Apuntes/Sin título.md",
+    "Materias/Tecnología Ciencia y Sociedad/Trabajos Prácticos/Trabajo Práctico 1 - Ciencia Tecnología y Sociedad.md",
+    "Materias/Matemática I - Algebra/Material/Respuestas TP1.pdf",
     "Materias/Matemática I - Algebra/Trabajos Prácticos/Trabajo Practico 1 - Ecuaciones.md",
+    "Materias/Tecnología Ciencia y Sociedad/Material/Conocimiento, Ciencia, Tecnología y Técnica.pdf",
+    "Materias/Tecnología Ciencia y Sociedad/Material/Apuntes de Cátedra de Ciencia y Tecnología.pdf",
+    "Materias/Tecnología Ciencia y Sociedad/Sin título.canvas",
+    "Materias/Tecnología Ciencia y Sociedad/Tecnología Ciencia y Sociedad.md",
+    "Materias/Tecnología Ciencia y Sociedad/Unidades/Unidad 1 - Introducción a la Ciencia y la Tecnología.md",
+    "Materias/Administración/Material/Solana, Ricardo. Administracion de organizaciones.pdf",
+    "Materias/Matemática I - Algebra/Unidades/Unidad 1 - Ecuaciones de Primer Grado.md",
     "Daily Notes/2024-03-05.md",
     "Materias/Matemática I - Algebra/Imagenes/img12.png",
     "Materias/Matemática I - Algebra/Imagenes/img11.png",
-    "Materias/Tecnología Ciencia y Sociedad/Trabajos Prácticos/Trabajo Práctico 1.md",
     "Materias/Sistemas Operativos/Unidades",
     "Materias/Tecnología Ciencia y Sociedad/Trabajos Prácticos",
     "Materias/Matemática I - Algebra/Imagenes/img10.png",
@@ -170,25 +192,17 @@
     "Materias/Matemática I - Algebra/Imagenes/img8.png",
     "Materias/Matemática I - Algebra/Imagenes/img7.png",
     "Materias/Matemática I - Algebra/Imagenes/img6.png",
-    "Materias/Matemática I - Algebra/Material/Respuestas TP1.pdf",
     "Materias/Matemática I - Algebra/Material/Ecuación Primer Grado.pdf",
     "Materias/Matemática I - Algebra/Matemática I - Algebra.md",
     "Misc/TODO.md",
-    "Materias/Administración/Administración.md",
     "Materias/Sistemas Operativos/Sistemas Operativos.md",
-    "Materias/Tecnología Ciencia y Sociedad/Tecnología Ciencia y Sociedad.md",
     "Materias/Programación Lógica/Programación Lógica.md",
     "Daily Notes/2024-03-27.md",
     "Materias/Sistemas Operativos/Unidades/Unidad 1 - Sistemas Operativos.md",
     "Materias/Sistemas Operativos/Material/Sistemas Operativos 2021.pdf",
     "Materias/Sistemas Operativos/Material",
-    "Materias/Tecnología Ciencia y Sociedad/Unidades/Unidad 1 - Introducción a la Ciencia y la Tecnología.md",
-    "Materias/Tecnología Ciencia y Sociedad/Material/Conocimiento, Ciencia, Tecnología y Técnica.pdf",
-    "Materias/Tecnología Ciencia y Sociedad/Material/Apuntes de Cátedra de Ciencia y Tecnología.pdf",
     "Materias/Tecnología Ciencia y Sociedad/Material/Trabajo Práctico 1 Tecnología, Ciencia y Sociedad.pdf",
     "Materias/Tecnología Ciencia y Sociedad/Apuntes/Apuntes Unidad 1.md",
-    "Materias/Tecnología Ciencia y Sociedad/Material/Presentación de la materia.pdf",
-    "Materias/Administración/Unidades/Unidad 1.md",
     "Materias/Administración/Apuntes/Apuntes Escuelas de la Administración.md",
     "Daily Notes/2024-03-19.md",
     "Daily Notes/2024-03-18.md",
@@ -199,9 +213,6 @@
     "Materias/Matemática I - Algebra/Apuntes/Apuntes de Línea Recta..md",
     "Materias/Matemática I - Algebra/Imagenes/img5.png",
     "full.png",
-    "Materias/Matemática I - Algebra/Imagenes/img4.png",
-    "Daily Notes/2024-03-25.md",
-    "Daily Notes/2024-03-22.md",
-    "Materias/Matemática I - Algebra/Tips/Remover fracciones en ecuaciones.md"
+    "Materias/Matemática I - Algebra/Imagenes/img4.png"
   ]
 }

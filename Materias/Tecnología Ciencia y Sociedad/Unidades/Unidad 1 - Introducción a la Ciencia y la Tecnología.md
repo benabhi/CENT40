@@ -6,7 +6,7 @@
 
 ## Trabajos Prácticos
 
-* [[Trabajo Práctico 1]]
+* [[Trabajo Práctico 1 - Ciencia Tecnología y Sociedad]]
 
 ## Material
 

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"35d9717327c0778f","type":"text","text":"> 3. Ciencia Mario Bunge (2005) entiende como Ciencia al “conocimiento ==racional== y ==sistemático==, ==general== y ==riguroso==, que es ==verificable== y por lo tanto factible” \n\n[[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=3&selection=119,0,125,54|Apuntes de Cátedra de Ciencia y Tecnología, página 3]]\n[[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=3&selection=119,0,135,21|]]","x":120,"y":-480,"width":480,"height":160},
+		{"id":"0a3ef819e0b39342","type":"text","text":"# Ciencia","x":-240,"y":-140,"width":120,"height":50,"color":"4"},
+		{"id":"7f51c78e1dd78f7d","type":"text","text":"","x":120,"y":260,"width":250,"height":60},
+		{"id":"25c290ef6f272531","type":"text","text":"> Es general porque esos hechos, fenómenos, acontecimientos, procesos y comportamientos no están aislados sino que están enmarcados en una realidad (social o natural) que los trasciende. Es riguroso porque el conocimiento científico no deja nada al azar, sino que está meticulosamente estudiado y medido, por lo tanto es producto una exhaustiva investigación.\n\n[[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=4&selection=38,0,49,74|Apuntes de Cátedra de Ciencia y Tecnología, página 4]]","x":1000,"y":-178,"width":530,"height":253},
+		{"id":"e4d027aa7e4f1051","type":"text","text":"> Es verificable porque las proposiciones (teorías, leyes, principios) resultantes deben someterse a la observación y experimentación para ser ratificadas. Como las técnicas de observación y medición se perfeccionan constantemente puede ocurrir que la verificación de negativa, marcando la falibilidad de la proposición en cuestión y dando lugar a una nueva\n\n[[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=4&selection=51,0,64,55|Apuntes de Cátedra de Ciencia y Tecnología, página 4]]","x":1000,"y":170,"width":530,"height":272},
+		{"id":"7bb5d435a00df412","type":"text","text":"> Es sistemático porque implica un proceso, que articula recopilación y análisis de datos e información, observación de conductas, patrones de comportamiento, etc, experimentación y razonamiento, a partir del cual se formulan hipótesis y se elaboran teorías. Una teoría es un medio elaborado por el ser humano que intenta explicar los hechos, fenómenos, acontecimientos, procesos y comportamientos, tanto de los mismos humanos como de la naturaleza\n\n[[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=4&selection=0,0,36,13|Apuntes de Cátedra de Ciencia y Tecnología, página 4]]","x":1000,"y":-558,"width":520,"height":300},
+		{"id":"916e8580fbab2947","x":1000,"y":-800,"width":520,"height":160,"type":"text","text":"> Es riguroso porque el conocimiento científico no deja nada al azar, sino que está meticulosamente estudiado y medido, por lo tanto es producto una exhaustiva investigación\n\n[[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=4&selection=46,0,49,73|Apuntes de Cátedra de Ciencia y Tecnología, página 4]]"},
+		{"id":"4e456ecb1023dcad","type":"text","text":"> Es racional porque es resultado de una elaboración lógica y coherente de un conjunto de ideas relacionadas entre sí\n\n[[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=3&selection=127,0,135,21|Apuntes de Cátedra de Ciencia y Tecnología, página 3]]","x":1000,"y":-1040,"width":520,"height":140}
+	],
+	"edges":[
+		{"id":"5820855fa079210c","fromNode":"0a3ef819e0b39342","fromSide":"right","toNode":"35d9717327c0778f","toSide":"left","label":"Según Bunge"},
+		{"id":"5f38f74f3f79f4e1","fromNode":"0a3ef819e0b39342","fromSide":"right","toNode":"7f51c78e1dd78f7d","toSide":"left","label":"Según Remetín"},
+		{"id":"2a4f8e8539a26e01","fromNode":"35d9717327c0778f","fromSide":"right","toNode":"7bb5d435a00df412","toSide":"left","label":"Sistemático"},
+		{"id":"3ba18621bbaf43fc","fromNode":"35d9717327c0778f","fromSide":"right","toNode":"25c290ef6f272531","toSide":"left","label":"General"},
+		{"id":"7aac4aad3505e0b2","fromNode":"35d9717327c0778f","fromSide":"right","toNode":"e4d027aa7e4f1051","toSide":"left","label":"Verificable"},
+		{"id":"aa92696955e9305d","fromNode":"35d9717327c0778f","fromSide":"right","toNode":"4e456ecb1023dcad","toSide":"left","label":"Racional"},
+		{"id":"ea03e3af8eadd9fb","fromNode":"35d9717327c0778f","fromSide":"right","toNode":"916e8580fbab2947","toSide":"left","label":"Riguroso"}
+	]
+}

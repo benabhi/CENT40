@@ -34,6 +34,12 @@
     - #todo 
 
 
+
+## Trabajos Prácticos
+
+* [[Trabajo Práctico 1 - Las Escuelas de la Administración]]
+
+
 ## Material
 
 * https://www.youtube.com/watch?v=KHAaYxMinC8
