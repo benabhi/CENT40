@@ -18,10 +18,12 @@ $$
 
 ## Trabajos Prácticos
 
-* [[Trabajo Practico 1 - Ecuaciones]]
+* [[Trabajo Práctico 1 - Ecuaciones]]
+* [[Trabajo Práctico 2 - Polinomios]]
 
 ## Material
 
 * [[Ecuación Primer Grado.pdf]]
 * [[TP1_2022.pdf]]
 * [[Respuestas TP1.pdf]]
+* [[TP2 polinomios.pdf]]
