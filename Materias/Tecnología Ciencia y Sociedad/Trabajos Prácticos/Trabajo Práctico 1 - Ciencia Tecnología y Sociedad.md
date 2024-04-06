@@ -44,7 +44,7 @@
 	- Muestra datos de como Japón, La Unión Europea y Estados Unidos acapararon un gran porcentaje de conocimiento a nivel mundial, tanto en trabajos científicos como en Premios Nobel entregados en este rubro.
 2. **Definición de Ciencia según Mario Bunge. Desarrollar.**
     - [[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=3&selection=119,0,135,21|Apuntes de Cátedra de Ciencia y Tecnología, página 3]]
-	- Según Mario Bunge se entiende como ciencia al ***"conocimiento racional y sistemático, general y riguroso, que es verificable y por lo tanto factible"***.
+	- Según **Mario Bunge** se entiende como ciencia al ***"conocimiento racional y sistemático, general y riguroso, que es verificable y por lo tanto factible"***.
 	    * Es ==**racional**== por que es resultado de una elaboración lógica y coherente de un conjunto de ideas relacionadas entre sí.
 		- Es ==**sistemático**== por que implica un proceso, que articulo recopilación y análisis de datos e información. observación de conductas, patrones de comportamiento, etc, experimentación y razonamiento, a partir de cual se formulan hipótesis y se elaboran teorías.
 			- Una **teoría** es un medio elaborado por el ser humano que intenta explicar los hechos, fenómenos, acontecimientos, procesos y comportamientos, tanto de los mismos humanos como de la naturaleza.
@@ -68,11 +68,13 @@
 	- La Ciencia tiene como objetivo la búsqueda de la verdad y el conocimiento de la naturaleza y el hombre.
 	- La actividad científica pretende establecer como ocurren los hechos, determinar los mecanismos, las causas, las consecuencias y los comportamientos.
 	- Los trabajos de investigación científica son valorados en base a su originalidad y de su contribución a al avance del conocimiento.
-5. **Tecnología: origen y definición.**
+	- Universalidad #todo
+	- Es Ubicua, nos atraviesa a todos todo el tiempo, estamos constantemente atravesados por la ciencia.
+1. **Tecnología: origen y definición.**
     - [[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=4&selection=97,0,105,25|Apuntes de Cátedra de Ciencia y Tecnología, página 4]]
 	- La tecnología es el conjunto de conocimientos científicos y empíricos que permiten mejorar y/o crear, como así también transferir nuevos materiales, procesos, productos, métodos, dispositivos y servicios (Remetiín, 2005).  
 	- La tecnología tiene como objetivo mejorar o perfeccionar un determinado producto o proceso o, en una instancia superior obtener uno nuevo.
-6. **¿Qué tienen en común Ciencia y Tecnología?**
+2. **¿Qué tienen en común Ciencia y Tecnología?**
     - [[Apuntes de Cátedra de Ciencia y Tecnología.pdf#page=3&selection=109,0,117,56|Apuntes de Cátedra de Ciencia y Tecnología, página 3]]
 	- Como síntesis puede mencionarse que Ciencia y Tecnología tienen una raíz común, ya que ambas constituyen ramas del Conocimiento.
 	- La Ciencia se basa en el Conocimiento Científico, mientras que la Tecnología se basa tanto en el Conocimiento Científico como en el Conocimiento Empírico.

@@ -18,6 +18,7 @@ https://campus.educacion.rionegro.gov.ar/ift/course/view.php?id=68
 ## Temas / Unidades
 
 * [[Unidad 1 - Introducción a la Ciencia y la Tecnología]]
+* [[Unidad 2 - Tecnología Ciencia y Sociedad]]
 
 ## Material
 
