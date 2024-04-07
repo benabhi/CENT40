@@ -1,4 +1,4 @@
-#unidad #materia/matemática/algebra 
+#unidad-tema #materia/matemática/algebra 
 
 ## Apuntes
 
@@ -19,7 +19,6 @@ $$
 ## Trabajos Prácticos
 
 * [[Trabajo Práctico 1 - Ecuaciones]]
-* [[Trabajo Práctico 2 - Polinomios]]
 
 ## Material
 

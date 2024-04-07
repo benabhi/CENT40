@@ -445,13 +445,7 @@ $$
 
 **Pendiente**
 
-$$
-\begin{align*}
-m &= \frac {3 - 3} {0 - (-3)} \\
-m &= \frac 0 {-3} \\
-m &= 0
-\end{align*}
-$$
+No es necesario sacarla, cuando es una recta es uno de los casos especiales y no tiene pendiente.
 
 **Ordenada al origen**
 
@@ -473,7 +467,7 @@ y &= 3
 \end{align*}
 $$
 
-#### g) #todo 
+#### g) 
 
 **Puntos**
 
@@ -490,23 +484,23 @@ $$
 
 **Pendiente**
 
-#todo Preguntar que pasa si queda algo sobre cero.
-
-$$
-\begin{align*}
-m &= \frac {5 - 0} {1 - 1} \\
-m &= \frac {5} 0 \\
-m &= 0
-\end{align*}
-$$
+No es necesario sacarla, cuando es una recta es uno de los casos especiales y no tiene pendiente.
 
 **Ordenada al origen**
 
-#todo
+$$
+\begin{align*}
+y &= m \cdot x + n \\
+5 &= 0 \cdot 1 + n \\
+5 &= n
+\end{align*}
+$$
 
 **Ecuación Completa**
 
-#todo
+$$
+y = 5
+$$
 
 ### Punto 4
 
@@ -627,7 +621,7 @@ $$
 y = 2x \quad\checkmark
 $$
 
-#### r4) #todo
+#### r4) 
 
 **Puntos**
 
@@ -640,13 +634,7 @@ $$
 
 **Pendiente**
 
-$$
-\begin{align*}
-m &= \frac {6 - 6} {5 - (-3)}\\
-m &= \frac 0 8 \\
-m &= 0
-\end{align*}
-$$
+No es necesario sacarla, cuando es una recta es uno de los casos especiales y no tiene pendiente.
 
 **Ordenada al origen**
 

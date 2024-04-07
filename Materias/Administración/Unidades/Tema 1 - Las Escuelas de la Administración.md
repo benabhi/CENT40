@@ -1,4 +1,4 @@
-#materia/administracion #unidad 
+#materia/administracion #unidad-tema 
 
 ## Apuntes
 
@@ -34,11 +34,10 @@
     - #todo 
 
 
-
 ## Trabajos Prácticos
 
 * [[Trabajo Práctico 1 - Las Escuelas de la Administración]]
-
+* [[Glosario participativos de conceptos sobre Gestión Administrativa]]
 
 ## Material
 

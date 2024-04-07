@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"9ead0a4b3eac27fa","x":-620,"y":-260,"width":1315,"height":460,"type":"group","label":"Teoría de las decisiones en la empresa"},
-		{"id":"ce17fac12349168e","x":-625,"y":-400,"width":250,"height":80,"type":"text","text":"#apuntes-practicas-tareas #materia/administracion "},
-		{"id":"5c7071b42cc490b8","x":-600,"y":-240,"width":250,"height":264,"type":"text","text":"* Investigar la situación.\n* Definir el problema.\n* Investigar los objetivos.\n* Diagnosticar los objetivos.\n* Diagnosticar las causas."},
+		{"id":"9ead0a4b3eac27fa","type":"group","x":-620,"y":-260,"width":1315,"height":460,"label":"Teoría de las decisiones en la empresa"},
+		{"id":"ce17fac12349168e","type":"text","text":"#apuntes-practicas-tareas #materia/administracion \n#misc ","x":-625,"y":-420,"width":250,"height":100},
+		{"id":"5c7071b42cc490b8","type":"text","text":"* Investigar la situación.\n* Definir el problema.\n* Investigar los objetivos.\n* Diagnosticar los objetivos.\n* Diagnosticar las causas.","x":-600,"y":-240,"width":250,"height":264},
 		{"id":"93a5aca9f4d9343b","type":"text","text":"* Desarrollo de alternativas.\n* Buscar alternativas creativas.","x":-255,"y":-240,"width":250,"height":264},
 		{"id":"dca570824c013ec3","type":"text","text":"* Evaluar las alternativas.\n* Seleccionar la mejor.","x":85,"y":-240,"width":250,"height":264},
 		{"id":"17f2f8b082acbb15","type":"text","text":"* Implementarla y hacer el seguimiento.\n* Planear la implementación.\n* Implementar el plan.\n* Hacer los ajustes necesarios y realizar el seguimiento.","x":425,"y":-240,"width":250,"height":264}

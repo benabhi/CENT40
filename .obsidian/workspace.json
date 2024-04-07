@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72be2b53ffb9eaa2",
+        "id": "0b0d1fe57b94ac78",
         "type": "tabs",
         "children": [
           {
-            "id": "bc434a66f2d0cb8b",
+            "id": "07a49c89e6ddc583",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-05.md",
+                "file": "Materias/Administración/Trabajos Prácticos/Glosario participativos de conceptos sobre Gestión Administrativa.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-05.md",
+                "file": "Materias/Administración/Trabajos Prácticos/Glosario participativos de conceptos sobre Gestión Administrativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-05.md",
+                "file": "Materias/Administración/Trabajos Prácticos/Glosario participativos de conceptos sobre Gestión Administrativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,8 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-05.md"
+                "file": "Materias/Administración/Trabajos Prácticos/Glosario participativos de conceptos sobre Gestión Administrativa.md"
               }
+            }
+          },
+          {
+            "id": "24c27aac12d43f16",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -156,18 +164,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc434a66f2d0cb8b",
+  "active": "d6e17ec3d3417f95",
   "lastOpenFiles": [
+    "Materias/Administración/Unidades/Tema 1 - Las Escuelas de la Administración.md",
+    "Materias/Administración/Trabajos Prácticos/Glosario participativos de conceptos sobre Gestión Administrativa.md",
+    "Materias/Administración/Administración.md",
+    "Materias/Matemática I - Algebra/Trabajos Prácticos/Trabajo Práctico 2 - Polinomios.md",
+    "Misc/HORARIO SISTEMAS 1ª CUAT 2024.pdf",
+    "Materias/Matemática I - Algebra/Material/Ej.polinomios.pdf",
+    "Materias/Matemática I - Algebra/Apuntes/Apuntes de Línea Recta..md",
+    "Materias/Matemática I - Algebra/Apuntes/Apuntes de  Polinomios.md",
+    "Materias/Matemática I - Algebra/Unidades-Temas/Tema 2 - Polinomios.md",
+    "Materias/Matemática I - Algebra/Material/Introducción Polinomios.pdf",
+    "Materias/Matemática I - Algebra/Material/Raíces polinomios.pdf",
+    "Materias/Matemática I - Algebra/Trabajos Prácticos/Trabajo Práctico 1 - Ecuaciones.md",
+    "Materias/Matemática I - Algebra/Material/TP2 polinomios.pdf",
+    "Materias/Matemática I - Algebra/Unidades-Temas/Tema 1 - Ecuaciones de Primer Grado.md",
     "Materias/Administración/Trabajos Prácticos/Trabajo Práctico 1 - Las Escuelas de la Administración.md",
+    "Materias/Matemática I - Algebra/Matemática I - Algebra.md",
+    "Materias/Administración/Material/Solana, Ricardo. Administracion de organizaciones.pdf",
+    "Materias/Administración/Material/Desarrollo TP1.pdf",
+    "Materias/Administración/Misc/Teoría de las decisiones en la empresa.canvas",
+    "Materias/Administración/Misc",
+    "Materias/Administración/Apuntes/Apuntes Escuelas de la Administración.md",
     "Daily Notes/2024-04-05.md",
     "Materias/Tecnología Ciencia y Sociedad/Sin título.canvas",
     "Materias/Tecnología Ciencia y Sociedad/Tecnología Ciencia y Sociedad.md",
@@ -175,42 +204,23 @@
     "Materias/Tecnología Ciencia y Sociedad/Trabajos Prácticos/Trabajo Práctico 1 - Ciencia Tecnología y Sociedad.md",
     "Misc/Enlace google forms asistencia (QR).md",
     "Misc/TODO.md",
-    "Materias/Matemática I - Algebra/Trabajos Prácticos/Trabajo Práctico 2 - Polinomios.md",
-    "Materias/Matemática I - Algebra/Unidades/Unidad 1 - Ecuaciones de Primer Grado.md",
-    "Materias/Matemática I - Algebra/Material/TP2 polinomios.pdf",
-    "Materias/Matemática I - Algebra/Matemática I - Algebra.md",
-    "Materias/Matemática I - Algebra/Trabajos Prácticos/Trabajo Práctico 1 - Ecuaciones.md",
     "Daily Notes/2024-04-04.md",
     "Daily Notes/2024-04-03.md",
-    "Materias/Administración/Unidades/Unidad 1.md",
-    "Materias/Administración/Administración.md",
-    "Materias/Administración/Apuntes/Teoría de las decisiones en la empresa.canvas",
     "Materias/Administración/Apuntes/Sin título.md",
     "Materias/Matemática I - Algebra/Material/Respuestas TP1.pdf",
     "Materias/Tecnología Ciencia y Sociedad/Material/Conocimiento, Ciencia, Tecnología y Técnica.pdf",
-    "Materias/Tecnología Ciencia y Sociedad/Material/Apuntes de Cátedra de Ciencia y Tecnología.pdf",
     "Materias/Tecnología Ciencia y Sociedad/Unidades/Unidad 1 - Introducción a la Ciencia y la Tecnología.md",
-    "Materias/Administración/Material/Solana, Ricardo. Administracion de organizaciones.pdf",
     "Daily Notes/2024-03-05.md",
     "Materias/Matemática I - Algebra/Imagenes/img12.png",
     "Materias/Matemática I - Algebra/Imagenes/img11.png",
-    "Materias/Sistemas Operativos/Unidades",
-    "Materias/Tecnología Ciencia y Sociedad/Trabajos Prácticos",
     "Materias/Matemática I - Algebra/Imagenes/img10.png",
     "Materias/Matemática I - Algebra/Imagenes/img9.png",
     "Materias/Matemática I - Algebra/Imagenes/img8.png",
     "Materias/Matemática I - Algebra/Imagenes/img7.png",
     "Materias/Matemática I - Algebra/Imagenes/img6.png",
-    "Materias/Matemática I - Algebra/Material/Ecuación Primer Grado.pdf",
     "Materias/Sistemas Operativos/Sistemas Operativos.md",
     "Materias/Programación Lógica/Programación Lógica.md",
     "Daily Notes/2024-03-27.md",
-    "Materias/Sistemas Operativos/Unidades/Unidad 1 - Sistemas Operativos.md",
-    "Materias/Sistemas Operativos/Material/Sistemas Operativos 2021.pdf",
-    "Materias/Sistemas Operativos/Material",
-    "Materias/Tecnología Ciencia y Sociedad/Apuntes/Apuntes Unidad 1.md",
-    "Materias/Administración/Apuntes/Apuntes Escuelas de la Administración.md",
-    "Daily Notes/2024-03-19.md",
     "Materias/Matemática I - Algebra/Imagenes/img5.png",
     "full.png",
     "Materias/Matemática I - Algebra/Imagenes/img4.png"

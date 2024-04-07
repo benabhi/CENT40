@@ -16,7 +16,8 @@ https://campus.educacion.rionegro.gov.ar/ift/course/view.php?id=60
 
 ## Temas / Unidades
 
-* [[Unidad 1 - Ecuaciones de Primer Grado]]
+* [[Tema 1 - Ecuaciones de Primer Grado]]
+* [[Tema 2 - Polinomios]]
 
 ## Material
 

@@ -2,6 +2,11 @@
 
 ## Desarrollo
 
+Acá dejo a mano el trabajo que subí a la plataforma.
+
+[[Desarrollo TP1.pdf]]
+
+* Apuntes del video pedido en el trabajo práctico.
 * Escuela de la teoría de las organizaciones
 * Anotaciones basadas en el video https://www.youtube.com/watch?v=YBZQQ8LBGKw
 * 1946-1960 aprox.
@@ -72,7 +77,6 @@
 		* Conflicto interorganizacional.
 			* Conflicto entre organizaciones.
 			* Relaciones de negociación.
-
 ## Material
 
 - [[TP1-2024.docx]]

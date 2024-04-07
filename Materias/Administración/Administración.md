@@ -16,8 +16,7 @@ https://campus.educacion.rionegro.gov.ar/ift/course/view.php?id=126&section=0
 
 ## Temas / Unidades
 
-* [[Unidad 1]]
-
+* [[Tema 1 - Las Escuelas de la Administración]]
 ## Material
 
 * Acuerdo pedagógico (Firmado [[2024-03-22]])
